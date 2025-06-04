@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+:root {
+  --skyBlue: #2274e0;
+}
+
+*,
+::after,
+::before {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #eef2f8;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}

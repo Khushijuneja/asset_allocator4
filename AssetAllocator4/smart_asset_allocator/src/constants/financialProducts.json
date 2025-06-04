@@ -1,0 +1,336 @@
+{
+  "financialProducts": [
+    {
+      "id": "national-pension-scheme",
+      "title": "National Pension Scheme",
+      "summary": "NPS stands as a robust and flexible investment option for retirement planning in India...",
+      "image": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "NPS stands as a robust and flexible investment option for retirement planning in India. Launched by the Government of India and regulated by the Pension Fund Regulatory and Development Authority (PFRDA), NPS aims to provide financial security and stability during the post-retirement years. With its broad spectrum of benefits, NPS is slowly becoming a popular financial product for anyone looking to build a substantial retirement corpus through disciplined savings and investments."
+        },
+        {
+          "type": "paragraph",
+          "text": "The NPS is a voluntary, long-term, defined contribution retirement savings scheme designed to enable systematic savings during an individual's working life. It is open to all citizens of India, including employees from the public, private, and unorganised sectors. The scheme encourages individuals to invest in a pension account at regular intervals during their employment. On retirement, the subscribers can use a part of the corpus to purchase an annuity for a regular income and withdraw the remaining part as a lump sum."
+        },
+        {
+          "type": "heading",
+          "text": "Structure",
+          "icon": "layers"
+        },
+        {
+          "type": "paragraph",
+          "text": "NPS is structured into two tiers"
+        },
+        {
+          "type": "subheading",
+          "text": "Tier I Account"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is the primary retirement account with restrictions on withdrawals. It offers tax benefits under Section 80C and Section 80CCD(1B) of the Income Tax Act."
+        },
+        {
+          "type": "subheading",
+          "text": "Tier II Account"
+        },
+        {
+          "type": "paragraph",
+          "text": "This is a voluntary savings account without any withdrawal restrictions. However, it does not offer any tax benefits."
+        },
+        {
+          "type": "heading",
+          "text": "Investment Options Available",
+          "icon": "pie-chart"
+        },
+        {
+          "type": "paragraph",
+          "text": "NPS offers a variety of options, providing flexibility to investors to choose according to their risk appetite and investment preferences."
+        },
+        {
+          "type": "subheading",
+          "text": "Asset Classes"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are asset classes available for investment, namely, (i) Equity (E), (ii) Corporate Bonds (C), (iii) Government Bonds (G), and (iv) Alternative Investment Funds (A), which may include REITs InvITs."
+        },
+        {
+          "type": "subheading",
+          "text": "Investment Choices"
+        },
+        {
+          "type": "paragraph",
+          "text": "Active Choice: Allows investors to decide the allocation percentages among the different asset classes (E, C, G, A) based on their risk preference."
+        },
+        {
+          "type": "paragraph",
+          "text": "Auto Choice: Also known as the lifecycle fund, this option automatically allocates funds among different asset classes based on the subscriber's age. The allocation to equity decreases with advancing age, thus reducing risk as the retirement date approaches."
+        },
+        {
+          "type": "heading",
+          "text": "Why Invest in NPS?",
+          "icon": "award"
+        },
+        {
+          "type": "paragraph",
+          "text": "The National Pension System offers multiple compelling reasons for consideration as a key component of retirement planning:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Tax Benefits: Contributions made to the NPS are eligible for tax deductions under Section 80C (up to ₹1.5 lakh) and an additional deduction under Section 80CCD(1B) (up to ₹50,000), making it an attractive tax-saving investment.",
+            "Flexibility: NPS provides flexibility in terms of investment choices and options to switch between different asset classes and fund managers.",
+            "Low Cost: NPS is known for its low investment management cost.",
+            "Transparency: Regular disclosure of portfolio performance and periodic statements provide transparency to subscribers.",
+            "Portability: NPS accounts are portable across jobs and locations.",
+            "Regulated Framework: The scheme is regulated by the PFRDA.",
+            "Annuity Option: Upon retirement, subscribers can choose from various annuity service providers."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "portfolio-management-service",
+      "title": "Portfolio Management Service",
+      "summary": "Portfolio Management Services (PMS) has emerged as a sophisticated investment vehicle...",
+      "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Portfolio Management Services (PMS) has emerged as a sophisticated investment vehicle in India, catering to high-net-worth individuals (HNIs) seeking tailored investment solutions. PMS offers a bespoke approach to wealth management, where portfolios can be customised to meet specific financial objectives, risk tolerance, and investment horizons of the investor."
+        },
+        {
+          "type": "paragraph",
+          "text": "In India, PMS investment solutions are offered by SEBI-registered portfolio managers, and PMS is regarded as an HNI product as the minimum investment amount required is Rs. 50 Lakh. PMS strategies can provide more personalised management of investments in equities, fixed income, and other securities, unlike mutual funds, which invest in a diversified portfolio that is common to all investors. The essence of PMS lies in its ability to offer increased flexibility and individualised strategies managed by experienced portfolio managers."
+        },
+        {
+          "type": "heading",
+          "text": "Options Available",
+          "icon": "settings"
+        },
+        {
+          "type": "paragraph",
+          "text": "PMS is classified based on who is in charge of decision-making and execution in PMS client portfolios. Broadly, the following options are available in India:"
+        },
+        {
+          "type": "subheading",
+          "text": "Discretionary PMS"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this type, the portfolio manager takes full control of the investment decisions on behalf of the client. The manager's expertise is relied upon to select and manage the securities to meet the predefined investment objectives."
+        },
+        {
+          "type": "subheading",
+          "text": "Non-Discretionary PMS"
+        },
+        {
+          "type": "paragraph",
+          "text": "Here, the portfolio manager acts as an advisor, providing recommendations and strategies, but the final investment decisions rest with the investor. This option offers greater control to the investor over their portfolio."
+        },
+        {
+          "type": "subheading",
+          "text": "Advisory PMS"
+        },
+        {
+          "type": "paragraph",
+          "text": "In this model, the portfolio manager offers tailored advice based on the client's financial goals and market conditions, but the client executes trades."
+        },
+        {
+          "type": "heading",
+          "text": "Why Invest in PMS?",
+          "icon": "trending-up"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are several reasons to consider investing in PMS as part of your portfolio:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Customisation: PMS allows for personalised investment strategies or portfolios crafted based on the investor's needs and preferences.",
+            "Professional Management: PMS provides access to professional portfolio managers with extensive experience and expertise in the financial markets.",
+            "Transparency: Investors receive detailed reports on their portfolio's performance, transactions, holdings, and other reports.",
+            "Flexibility: Unlike mutual funds, PMS offers greater flexibility in terms of asset allocation, investment choices and decision-making.",
+            "Potential for Higher Returns: Given the active management approach and flexibility, PMS can potentially deliver higher returns."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "equity-etfs",
+      "title": "Equity & ETFs",
+      "summary": "Equity and ETF allow investors to participate directly in the stock market...",
+      "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Equity and ETF allow investors to participate directly in the stock market and take benefit of market appreciation. While equities represent direct ownership in a specific company, ETFs offer a more diversified approach, providing investors with exposure to a broader market."
+        },
+        {
+          "type": "paragraph",
+          "text": "Equity investments essentially mean purchasing shares of a company, making the investor a partial owner of that company. The primary goal of investing in equities is capital appreciation, though many companies also offer dividends as a form of income to shareholders. Equities are known for their potential to deliver high returns over the long term, but they also come with a higher degree of risk compared to other asset classes."
+        },
+        {
+          "type": "paragraph",
+          "text": "Exchange-Traded Funds (ETFs), on the other hand, are investment funds that are traded on stock exchanges, much like individual stocks. An ETF holds assets such as stocks, commodities, or bonds and generally operates with an arbitrage mechanism designed to keep its trading close to its net asset value. ETFs combine the diversification benefits of mutual funds with the liquidity and trading flexibility of stocks."
+        },
+        {
+          "type": "heading",
+          "text": "Investment Options",
+          "icon": "dollar-sign"
+        },
+        {
+          "type": "paragraph",
+          "text": "The landscape of equity and ETF investments is broad and varied, catering to different investor needs and risk appetites, with many options available, such as:"
+        },
+        {
+          "type": "subheading",
+          "text": "Equity Investments"
+        },
+        {
+          "type": "paragraph",
+          "text": "There is virtually no limit to what you can invest in. Thus, it often requires experience, expertise, and knowledge to research and invest in the right companies based on your expectations. One can invest in large, mid, or small companies, sector-specific companies and even new ones through IPOs."
+        },
+        {
+          "type": "subheading",
+          "text": "Exchange-Traded Funds (ETFs)"
+        },
+        {
+          "type": "paragraph",
+          "text": "Amongst the options available are (i) Equity ETFs, which can be based on market-cap or sector (ii) Index ETFs, which are linked to common indices (iii) Commodity ETFs, linked to commodities like gold, silver, etc. (iv) Debt ETFs, which invest in fixed income securities, and (v) Global ETFs, which allow exposure to global indices."
+        },
+        {
+          "type": "heading",
+          "text": "Benefits",
+          "icon": "bar-chart-2"
+        },
+        {
+          "type": "paragraph",
+          "text": "One can consider equity and ETF investments as part of the investment portfolio for several reasons:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Potential for High Returns: Equities and ETFs have historically provided higher returns compared to other asset classes over the long term.",
+            "Diversification: Investing in a mix of equities and ETFs can help diversify your portfolio.",
+            "Liquidity: Both equities and ETFs offer high liquidity, allowing investors to buy and sell shares quickly.",
+            "Cost Efficiency: ETFs often have lower expense ratios compared to mutual funds.",
+            "Transparency: Equity and ETFs, by nature, are more transparent than mutual funds.",
+            "Accessibility: With a wide range of options available, investors can easily find equities and ETFs that match their investment objectives."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "loan-against-mutual-fund",
+      "title": "Loan Against Mutual Fund",
+      "summary": "Loan Against Securities (LAS) is an innovative financial product...",
+      "image": "https://images.unsplash.com/photo-1579621970563-ebec7560ff3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Loan Against Securities (LAS) is an innovative financial product designed to provide liquidity to investors without requiring them to sell their securities. It is a secured loan where securities such as shares, ETFs, and mutual funds are pledged as collateral. This facility allows investors to leverage their investment portfolio to meet their short-term financial needs while continuing to benefit from potential capital appreciation of their investments."
+        },
+        {
+          "type": "paragraph",
+          "text": "A LAS is a type of secured loan offered by banks and financial institutions, enabling investors to borrow funds against their existing securities. By pledging their securities as collateral, investors can obtain a loan, typically a percentage of the market value of the pledged securities, which can be used for various purposes. The loan amount varies depending on the type of security pledged and the lender's policies. It is tailored for those who need quick access to funds but do not wish to liquidate their investments."
+        },
+        {
+          "type": "heading",
+          "text": "Options Available",
+          "icon": "credit-card"
+        },
+        {
+          "type": "paragraph",
+          "text": "LAS offers a range of options tailored to suit different financial needs and preferences:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Types of Securities: Loans can be availed by pledging different types of securities such as equity shares, mutual fund units, and ETFs.",
+            "Loan Amount and Tenure: The loan amount is generally a percentage of the market value of the pledged securities, varying from 35% to 80%.",
+            "Interest Rates and Repayment: Interest rates on LAS are typically lower than those on unsecured personal loans.",
+            "Types of Loans: Usually, one can avail products such as (a) Term Loans, (b) Consumer Loans, and (c) Flexi-loans."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Why Opt For LAS?",
+          "icon": "thumbs-up"
+        },
+        {
+          "type": "paragraph",
+          "text": "Taking a LAS instead of an unsecured personal loan offers multiple advantages, such as:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Quick Access to Funds: LAS provides immediate access to funds without the need to sell your investments.",
+            "Continued Investment Benefits: By pledging securities instead of selling them, investors continue to benefit from potential capital appreciation.",
+            "Lower Interest Rates: LAS typically offers lower interest rates compared to unsecured loans and credit cards.",
+            "Flexible Repayment Options: Flexible repayment terms are generally offered."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mutual-funds",
+      "title": "Mutual Funds",
+      "summary": "The Indian mutual fund industry offers a diverse range of schemes...",
+      "image": "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=80",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "The Indian mutual fund industry offers a diverse range of schemes catering to various investment needs and risk appetites. In all, there are over 2,500 schemes classified into different categories and sub-categories of funds. Here's a short glimpse into the most prominent categories."
+        },
+        {
+          "type": "paragraph",
+          "text": "A mutual fund is a professionally managed collective investment scheme in which money is pooled from a large number of investors. Then, depending on the scheme's objective, investments are made in a variety of financial instruments, such as stocks, bonds, and money market instruments. A professional fund management team manages the scheme according to the scheme objective and the investment strategy, including growth, income generation, or balanced asset allocation."
+        },
+        {
+          "type": "heading",
+          "text": "Spectrum of Options",
+          "icon": "grid"
+        },
+        {
+          "type": "paragraph",
+          "text": "The Indian mutual fund industry offers a diverse range of schemes catering to various investment needs and risk appetites. In all, there are over 2,500 schemes classified into different categories and sub-categories of funds. Here's a short glimpse into the most prominent categories:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Equity Funds: These funds invest primarily in stocks of companies across market capitalisation such as large-cap, mid-cap, small-cap, flexi-cap, or even multi-cap.",
+            "Debt Funds: These funds invest in fixed-income instruments like government bonds, corporate bonds, and money market instruments.",
+            "Hybrid Funds: This category invests in both, equity and debt assets, providing a range of risk-return profiles.",
+            "Sectoral or Thematic Funds: These funds concentrate on a specific industry sector, like healthcare, technology, or infrastructure or a theme like ESG."
+          ]
+        },
+        {
+          "type": "heading",
+          "text": "Why Invest in Mutual Funds?",
+          "icon": "star"
+        },
+        {
+          "type": "paragraph",
+          "text": "There are several compelling reasons to consider mutual funds as part of your investment strategy:"
+        },
+        {
+          "type": "list",
+          "items": [
+            "Diversifications: Mutual funds inherently offer diversification by investing in a basket of assets.",
+            "Suitability: Given the choice of products on offer, one can easily find a suitable mutual fund category.",
+            "Professional Management: Fund managers with expertise in financial markets make investment decisions on your behalf.",
+            "Potential for Growth: Mutual funds offer the potential for capital appreciation and wealth building over the long term.",
+            "Accessibility: Mutual funds are generally accessible with a low minimum investment.",
+            "Convenience: Our online platform makes investments easy.",
+            "Transparency: Mutual funds are regulated by the SEBI.",
+            "Liquidity: Open-ended mutual funds offer redemption facilities."
+          ]
+        }
+      ]
+    }
+  ]
+}

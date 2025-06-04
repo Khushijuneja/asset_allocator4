@@ -1,0 +1,108 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "lobDisplayText": "Investment Portfolio Management",
+      "newHeroOfferCardUrl": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?q=80&w=1170&auto=format&fit=crop",
+      "pTl": "Strategic Investment Planning",
+      "pTx": "Optimize asset allocation and maximize returns with our expert portfolio management strategies."
+    },
+    {
+      "id": 2,
+      "lobDisplayText": "Risk Management & Mitigation",
+      "newHeroOfferCardUrl": "https://images.unsplash.com/photo-1521542017277-5a810fda9664?q=80&w=1170&auto=format&fit=crop",
+      "pTl": "Comprehensive Risk Assessment",
+      "pTx": "Identify and mitigate financial risks through advanced analytics and strategic planning."
+    },
+    {
+      "id": 3,
+      "lobDisplayText": "Wealth & Asset Allocation",
+      "newHeroOfferCardUrl": "https://images.unsplash.com/photo-1565514158740-064f06e13bb8?q=80&w=1170&auto=format&fit=crop",
+      "pTl": "Customized Wealth Management",
+      "pTx": "Tailor-made asset allocation strategies to preserve and grow wealth efficiently."
+    },
+    {
+      "id": 4,
+      "lobDisplayText": "Actuarial & Insurance Analytics",
+      "newHeroOfferCardUrl": "https://images.unsplash.com/photo-1523289333742-be1143f6b766?q=80&w=1170&auto=format&fit=crop",
+      "pTl": "Data-Driven Insurance Planning",
+      "pTx": "Leverage actuarial insights to optimize insurance portfolios and financial protection plans."
+    },
+    {
+      "id": 5,
+      "lobDisplayText": "Institutional Investment Solutions",
+      "newHeroOfferCardUrl": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?q=80&w=1170&auto=format&fit=crop",
+      "pTl": "Tailored Solutions for Institutions",
+      "pTx": "Comprehensive asset management strategies designed for institutional investors and pension funds."
+    },
+    {
+      "id": 6,
+      "lobDisplayText": "Alternative Investments & Private Equity",
+      "newHeroOfferCardUrl": "https://images.unsplash.com/photo-1608231387042-5abf61a9a500?q=80&w=1170&auto=format&fit=crop",
+      "pTl": "Diversified Investment Opportunities",
+      "pTx": "Access alternative assets, hedge funds, and private equity for long-term growth."
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "program": "Investment Portfolio Management",
+      "modules": [
+        "Asset Allocation & Diversification",
+        "Fixed Income & Equity Investment Strategies",
+        "Market Analysis & Economic Indicators",
+        "Performance Monitoring & Risk Adjustments"
+      ]
+    },
+    {
+      "id": 2,
+      "program": "Risk Management & Mitigation",
+      "modules": [
+        "Enterprise Risk Assessment",
+        "Regulatory Compliance & Governance",
+        "Credit & Liquidity Risk Analysis",
+        "Stress Testing & Scenario Analysis"
+      ]
+    },
+    {
+      "id": 3,
+      "program": "Wealth & Asset Allocation",
+      "modules": [
+        "High-Net-Worth Portfolio Structuring",
+        "Real Estate & Alternative Investments",
+        "Estate & Succession Planning",
+        "Tax-Efficient Wealth Strategies"
+      ]
+    },
+    {
+      "id": 4,
+      "program": "Actuarial & Insurance Analytics",
+      "modules": [
+        "Actuarial Risk Modeling",
+        "Insurance Portfolio Structuring",
+        "Pension Fund Optimization",
+        "Regulatory Reporting & Compliance"
+      ]
+    },
+    {
+      "id": 5,
+      "program": "Institutional Investment Solutions",
+      "modules": [
+        "Pension & Endowment Fund Strategies",
+        "Multi-Asset Class Investing",
+        "Impact & ESG Investing",
+        "Liquidity & Capital Preservation Strategies"
+      ]
+    },
+    {
+      "id": 6,
+      "program": "Alternative Investments & Private Equity",
+      "modules": [
+        "Venture Capital & Private Equity Portfolio",
+        "Infrastructure & Real Estate Funds",
+        "Hedge Fund Strategies",
+        "Sustainable & Thematic Investments"
+      ]
+    }
+  ]
+}

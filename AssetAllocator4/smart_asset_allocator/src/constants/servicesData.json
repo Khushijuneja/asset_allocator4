@@ -1,0 +1,274 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "slug": "investment-portfolio",
+      "title": "Investment Portfolio",
+      "subtitle": "Wealth Growth",
+      "tagline": "Smart investments for your financial future",
+      "imageUrl": "https://images.unsplash.com/photo-1468254095679-bbcba94a7066?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+      "description": "Professional management of your investments to maximize returns while minimizing risk through diversified asset allocation.",
+      "aboutContent": "Our investment portfolio service helps you build and manage a diversified investment strategy tailored to your financial goals and risk tolerance. We provide expert guidance on asset allocation, portfolio rebalancing, and performance monitoring.",
+      "features": [
+        "Customized investment strategies",
+        "Diversified asset allocation",
+        "Regular portfolio reviews",
+        "Risk assessment tools",
+        "Tax-efficient investing"
+      ],
+      "whyUsPoints": [
+        "20+ years of investment experience",
+        "Transparent fee structure",
+        "Personalized service",
+        "Cutting-edge research",
+        "Proven track record"
+      ],
+      "sidebarLinks": {
+        "services": [
+          { "label": "Tax Fundamentals", "link": "/services/tax-fundamentals" },
+          { "label": "Mutual Funds", "link": "/services/mutual-funds" },
+          {
+            "label": "Insurance Portfolio",
+            "link": "/services/insurance-portfolio"
+          }
+        ],
+        "downloads": [
+          {
+            "label": "Investment Guide PDF",
+            "link": "/downloads/investment-guide.pdf"
+          },
+          {
+            "label": "Risk Profile Questionnaire",
+            "link": "/downloads/risk-profile.pdf"
+          }
+        ]
+      },
+      "icon": "TrendingUp"
+    },
+    {
+      "id": 2,
+      "slug": "insurance-portfolio",
+      "title": "Insurance Portfolio",
+      "subtitle": "Risk Management",
+      "tagline": "Protecting what matters most",
+      "imageUrl": "https://images.unsplash.com/photo-1531545514256-b1400bc00f31?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1974&q=80",
+      "description": "Comprehensive insurance solutions to safeguard your family and assets against life's uncertainties.",
+      "aboutContent": "We analyze your unique situation to recommend the right mix of insurance products that provide optimal coverage at competitive rates. Our experts stay updated on the latest products to ensure you get the best protection.",
+      "features": [
+        "Life insurance analysis",
+        "Health insurance options",
+        "Disability coverage",
+        "Long-term care planning",
+        "Policy reviews"
+      ],
+      "whyUsPoints": [
+        "Independent advice (not tied to any insurer)",
+        "Claims assistance",
+        "Annual policy reviews",
+        "Customized solutions",
+        "Competitive pricing"
+      ],
+      "sidebarLinks": {
+        "services": [
+          { "label": "Life Insurance", "link": "/services/life-insurance" },
+          { "label": "Estate Planning", "link": "/services/estate-planning" },
+          {
+            "label": "Investment Portfolio",
+            "link": "/services/investment-portfolio"
+          }
+        ],
+        "downloads": [
+          {
+            "label": "Insurance Needs Calculator",
+            "link": "/downloads/insurance-calculator.pdf"
+          },
+          {
+            "label": "Policy Comparison Guide",
+            "link": "/downloads/policy-comparison.pdf"
+          }
+        ]
+      },
+      "icon": "Shield"
+    },
+    {
+      "id": 3,
+      "slug": "tax-fundamentals",
+      "title": "Tax Fundamentals",
+      "subtitle": "Efficient Planning",
+      "tagline": "Maximize your after-tax returns",
+      "imageUrl": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1911&q=80",
+      "description": "Strategic tax planning to minimize liabilities and maximize wealth preservation.",
+      "aboutContent": "Our tax planning services help you navigate complex tax laws to identify savings opportunities. We provide year-round tax strategies, not just year-end planning, to optimize your financial position.",
+      "features": [
+        "Tax-efficient investing",
+        "Retirement account strategies",
+        "Charitable giving plans",
+        "Business tax planning",
+        "Estate tax minimization"
+      ],
+      "whyUsPoints": [
+        "CPAs on staff",
+        "Proactive planning",
+        "Comprehensive approach",
+        "IRS audit support",
+        "Tax law expertise"
+      ],
+      "sidebarLinks": {
+        "services": [
+          {
+            "label": "Investment Portfolio",
+            "link": "/services/investment-portfolio"
+          },
+          { "label": "Estate Planning", "link": "/services/estate-planning" },
+          { "label": "Mutual Funds", "link": "/services/mutual-funds" }
+        ],
+        "downloads": [
+          { "label": "Tax Checklist", "link": "/downloads/tax-checklist.pdf" },
+          {
+            "label": "Deduction Guide",
+            "link": "/downloads/deduction-guide.pdf"
+          }
+        ]
+      },
+      "icon": "FileText"
+    },
+    {
+      "id": 4,
+      "slug": "life-insurance",
+      "title": "Life Insurance",
+      "subtitle": "Family Protection",
+      "tagline": "Peace of mind for your loved ones",
+      "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Tailored life insurance solutions to secure your family's financial future.",
+      "aboutContent": "We help you determine the right type and amount of life insurance coverage based on your family's needs and financial obligations. Our advisors compare policies from multiple providers to find the best value.",
+      "features": [
+        "Term life insurance",
+        "Whole life policies",
+        "Universal life options",
+        "Survivor needs analysis",
+        "Policy conversion options"
+      ],
+      "whyUsPoints": [
+        "Needs-based recommendations",
+        "Competitive quotes",
+        "Beneficiary planning",
+        "Policy performance reviews",
+        "Claims assistance"
+      ],
+      "sidebarLinks": {
+        "services": [
+          {
+            "label": "Insurance Portfolio",
+            "link": "/services/insurance-portfolio"
+          },
+          { "label": "Estate Planning", "link": "/services/estate-planning" },
+          {
+            "label": "Investment Portfolio",
+            "link": "/services/investment-portfolio"
+          }
+        ],
+        "downloads": [
+          {
+            "label": "Life Insurance Guide",
+            "link": "/downloads/life-insurance-guide.pdf"
+          },
+          {
+            "label": "Needs Calculator",
+            "link": "/downloads/life-needs-calculator.pdf"
+          }
+        ]
+      },
+      "icon": "HeartPulse"
+    },
+    {
+      "id": 5,
+      "slug": "mutual-funds",
+      "title": "Mutual Funds",
+      "subtitle": "Diversified Investing",
+      "tagline": "Professional management for all investors",
+      "imageUrl": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Access to professionally managed portfolios of stocks, bonds, and other securities.",
+      "aboutContent": "We help you select mutual funds that align with your investment objectives, time horizon, and risk tolerance. Our research team analyzes performance, fees, and manager tenure to recommend quality funds.",
+      "features": [
+        "Equity funds",
+        "Bond funds",
+        "Index funds",
+        "Sector-specific funds",
+        "International funds"
+      ],
+      "whyUsPoints": [
+        "Low-cost options",
+        "Performance analysis",
+        "Tax-efficient funds",
+        "Automatic investing",
+        "Diversification strategies"
+      ],
+      "sidebarLinks": {
+        "services": [
+          {
+            "label": "Investment Portfolio",
+            "link": "/services/investment-portfolio"
+          },
+          { "label": "Tax Fundamentals", "link": "/services/tax-fundamentals" },
+          { "label": "Estate Planning", "link": "/services/estate-planning" }
+        ],
+        "downloads": [
+          {
+            "label": "Fund Selection Guide",
+            "link": "/downloads/fund-selection.pdf"
+          },
+          {
+            "label": "Performance Reports",
+            "link": "/downloads/fund-performance.pdf"
+          }
+        ]
+      },
+      "icon": "PieChart"
+    },
+    {
+      "id": 6,
+      "slug": "estate-planning",
+      "title": "Estate Planning",
+      "subtitle": "Legacy Protection",
+      "tagline": "Preserving your wealth for future generations",
+      "imageUrl": "https://images.unsplash.com/photo-1605152276897-4f618f831968?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "description": "Comprehensive strategies to protect and transfer your assets according to your wishes.",
+      "aboutContent": "Our estate planning services help minimize taxes and ensure your assets are distributed as you intend. We coordinate with your legal team to create wills, trusts, and other essential documents.",
+      "features": [
+        "Will preparation guidance",
+        "Trust strategies",
+        "Beneficiary designations",
+        "Charitable giving plans",
+        "Business succession"
+      ],
+      "whyUsPoints": [
+        "Holistic approach",
+        "Tax minimization",
+        "Family harmony focus",
+        "Document review",
+        "Multi-generational planning"
+      ],
+      "sidebarLinks": {
+        "services": [
+          { "label": "Life Insurance", "link": "/services/life-insurance" },
+          { "label": "Tax Fundamentals", "link": "/services/tax-fundamentals" },
+          {
+            "label": "Investment Portfolio",
+            "link": "/services/investment-portfolio"
+          }
+        ],
+        "downloads": [
+          {
+            "label": "Estate Planning Checklist",
+            "link": "/downloads/estate-checklist.pdf"
+          },
+          {
+            "label": "Inheritance Guide",
+            "link": "/downloads/inheritance-guide.pdf"
+          }
+        ]
+      },
+      "icon": "Landmark"
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "pageTitle": "Mutual Funds",
+  "pageDescription": "Access a wide range of mutual fund products with online transaction facility",
+  "productBasket": {
+    "title": "Product Basket",
+    "description": "Access a wide range of financial products under one window with online transaction facility",
+    "products": [
+      {
+        "name": "MUTUAL FUNDS",
+        "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "subProducts": [
+          "LOAN AGAINST MF",
+          "EQUITY & ETFs*",
+          "PMS",
+          "SOV.GOLD BOND*"
+        ]
+      },
+      {
+        "name": "EQUITY INVESTMENTS",
+        "image": "https://images.unsplash.com/photo-1642790552879-5b1c6d8eee27?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "subProducts": ["Direct Equity", "IPO", "Sector Funds", "Index Funds"]
+      },
+      {
+        "name": "FIXED INCOME",
+        "image": "https://images.unsplash.com/photo-1535320903710-d993d3d77d29?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "subProducts": [
+          "Corporate Bonds",
+          "Debentures",
+          "Government Securities",
+          "Fixed Maturity Plans"
+        ]
+      },
+      {
+        "name": "ALTERNATIVE INVESTMENTS",
+        "image": "https://images.unsplash.com/photo-1604594849809-dfedbc827105?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "subProducts": ["REITs", "InvITs", "AIFs", "Venture Capital"]
+      }
+    ],
+    "disclaimer": "* Upon opening an NJ E-Wealth Demat Account with NJ Wealth Partner",
+    "ctaText": "KNOW MORE"
+  },
+  "heroSection": {
+    "title": "Invest in Mutual Funds",
+    "subtitle": "Diversify your portfolio with professionally managed funds",
+    "image": "https://images.unsplash.com/photo-1621761191319-c6fb62004040?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1471&q=80",
+    "ctaText": "Explore Funds"
+  },
+  "features": [
+    {
+      "title": "Wide Selection",
+      "description": "Choose from 1000+ funds across categories",
+      "icon": "📊"
+    },
+    {
+      "title": "Expert Research",
+      "description": "Access our curated fund recommendations",
+      "icon": "🔍"
+    },
+    {
+      "title": "Low Investment",
+      "description": "Start with as little as ₹500 per month",
+      "icon": "💰"
+    },
+    {
+      "title": "Tax Benefits",
+      "description": "ELSS funds with tax savings under 80C",
+      "icon": "🏦"
+    }
+  ],
+  "fundCategories": [
+    {
+      "id": 1,
+      "name": "Equity Funds",
+      "description": "Invest primarily in stocks for long-term growth",
+      "fundsCount": 342,
+      "returns": "12-15% avg. returns"
+    },
+    {
+      "id": 2,
+      "name": "Debt Funds",
+      "description": "Lower risk funds investing in bonds and fixed income",
+      "fundsCount": 187,
+      "returns": "7-9% avg. returns"
+    },
+    {
+      "id": 3,
+      "name": "Hybrid Funds",
+      "description": "Balanced mix of equity and debt instruments",
+      "fundsCount": 156,
+      "returns": "9-11% avg. returns"
+    },
+    {
+      "id": 4,
+      "name": "ELSS Funds",
+      "description": "Tax-saving funds with 3-year lock-in period",
+      "fundsCount": 45,
+      "returns": "12-14% avg. returns"
+    }
+  ],
+  "performanceSection": {
+    "title": "Top Performing Funds",
+    "funds": [
+      {
+        "name": "NJ Equity Growth Fund",
+        "category": "Large Cap",
+        "returns": "18.2%",
+        "risk": "Moderate"
+      },
+      {
+        "name": "NJ Balanced Advantage Fund",
+        "category": "Hybrid",
+        "returns": "14.7%",
+        "risk": "Moderate"
+      },
+      {
+        "name": "NJ Small Cap Fund",
+        "category": "Small Cap",
+        "returns": "22.1%",
+        "risk": "High"
+      }
+    ]
+  },
+  "ctaSection": {
+    "title": "Ready to start your investment journey?",
+    "description": "Open your account in just 5 minutes",
+    "buttonText": "Invest Now"
+  }
+}
